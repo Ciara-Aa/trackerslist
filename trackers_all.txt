@@ -178,3 +178,16 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://1337.abcvg.info:80/announce
 
+udp://explodie.org:6969/announce
+
+udp://tracker.tryhackx.org:6969/​announce
+
+udp://open.demonii.com:1337/anno​unce
+
+udp://tracker.fnix.net:6969/anno​unce
+
+udp://open.stealth.si:80/announc​e
+
+https://tracker1.520.jp:443/announce
+
+udp://www.torrent.eu.org:451/announce
